@@ -17,6 +17,7 @@
     "helmet": "^8.1.0",
     "mongoose": "^8.13.3",
     "morgan": "^1.10.0",
+    "parser": "^0.1.4",
     "react": "^19.1.0",
     "react-router-dom": "^7.5.2"
   }
