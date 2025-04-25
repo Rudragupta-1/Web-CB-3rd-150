@@ -5,7 +5,6 @@ import { createError } from "../error.js";
 import jwt from "jsonwebtoken";
 
 import Token from "../models/Emailtoken.js";
-import sendEmail from "../utils/sendEmail.js";
 import crypto from "crypto-js";
 export const signup = async(req, res, next) => {
     try {
